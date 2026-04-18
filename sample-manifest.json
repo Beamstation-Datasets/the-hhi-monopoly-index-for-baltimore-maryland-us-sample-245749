@@ -1,12 +1,12 @@
 {
-  "export_job_id": "8741801d-ec19-45be-aff1-8278903753a1",
+  "export_job_id": "fb83be67-80d7-4313-9eeb-160a14070a8e",
   "id_short": 245749,
-  "published_at": "2026-04-11T07:14:13Z",
+  "published_at": "2026-04-18T07:42:13Z",
   "repo_name": "the-hhi-monopoly-index-for-baltimore-maryland-us-sample-245749",
   "sample_asset_name": "beamstation_245749_restaurants-us-md_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/245749/beamstation_245749_restaurants-us-md_SAMPLE_DIST.csv",
-  "sample_records": 11,
-  "sample_sha256": "e051f1cfd9b300cc70ae5e0da0aba2852be5bea0be93743de4c5ec31ecc9faa3",
-  "sample_size_bytes": 60754,
-  "total_records": 112
+  "sample_records": 8,
+  "sample_sha256": "9a1d8f7400be9577f93643f3fbdaa204b956fc14144e0ae08838cbda55a85a3b",
+  "sample_size_bytes": 51112,
+  "total_records": 86
 }
