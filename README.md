@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for Baltimore, Maryland, US
 
-> Free BeamStation sample export with 11 rows and masked direct-contact fields.
+> Free BeamStation sample export with 8 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `245749` |
 | Location | Baltimore |
 | Category | Restaurants |
-| Full dataset size | 112 records |
-| Free sample size | 11 records (9.82%) |
-| Last export | 2026-04-08T00:25:19.646261+00:00 |
+| Full dataset size | 86 records |
+| Free sample size | 8 records (9.3%) |
+| Last export | 2026-04-15T06:06:09.508218+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-baltimore-maryland-us-sample-245749/releases/download/sample-latest/beamstation_245749_restaurants-us-md_SAMPLE_DIST.csv) |
 
 ## What is in this sample
